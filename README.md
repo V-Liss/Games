@@ -3,7 +3,7 @@ TO PLAY
 
 On Windows:
 
-run bin/The Guns Dungeons.exe
+run bin/Release/The Guns Dungeons.exe
 
 
 on Linux, use wine:
@@ -14,7 +14,7 @@ for 64-bit applications;
 $ sudo apt install wine32
 for 32-bit applications;
 
-$ wine ~/bin/The\ Guns\ Dungeons.exe
+$ wine ~/bin/Release/The\ Guns\ Dungeons.exe
 
 
 ENJOY!
